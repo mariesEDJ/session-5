@@ -10,5 +10,10 @@ body {
 
 #header-level-3 {
 	color: purple;
-
+}
+#ma-boite{
+	width: 180px;
+	position:fixed;
+	top:30px;
+	left:100px;
 }
